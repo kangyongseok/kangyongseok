@@ -8,6 +8,9 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangyongsuek@gmail.com)](mailto:kangyongsuek@gmail.com)
 	
 🏡    경기도 고양시 거주  
+
 🏢    렌카 2019.2 ~ 현재  
+
 💻    FrontDeveloper  
+
 🛠    React  
