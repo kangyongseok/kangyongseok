@@ -12,7 +12,9 @@
 
 💻    FrontDeveloper  
 
+![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg)
 ![react](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+![typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg)
 ![jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg)
 ![vscode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
