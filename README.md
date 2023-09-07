@@ -6,7 +6,7 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100014279233128)](https://www.facebook.com/profile.php?id=100014279233128)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangyongsuek@gmail.com)](mailto:kangyongsuek@gmail.com)
 	
-🏡    경기도 고양시 거주  
+🏡    경기도 과천
 
 🏢    미스터카멜 2022.5 ~ 현재  
 🏢    (전)아이엠에스모빌리티 2019.2 ~ 2022.04  
